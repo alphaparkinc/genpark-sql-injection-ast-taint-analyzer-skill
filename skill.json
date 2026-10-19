@@ -1,0 +1,21 @@
+{
+  "name": "genpark-sql-injection-ast-taint-analyzer-skill",
+  "version": "1.0.1",
+  "description": "Dynamic SQL AST taint tracking and static vulnerability auditor detecting tautologies and destructive piggybacking",
+  "author": "GenPark AI",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "topics": [
+    "mcp",
+    "sql-injection",
+    "ast-taint",
+    "security-auditor",
+    "vulnerability-scanner",
+    "query-sanitizer",
+    "python-standard-library",
+    "agent-skills",
+    "database-security",
+    "owasp",
+    "ai-safety"
+  ]
+}
